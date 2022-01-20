@@ -1,4 +1,4 @@
-package bruteForce;
+package bruteForce.모의고사;
 import java.util.*;
 // 무난한 완전탐색 문제 (Level 1)
 // 반환타입이 배열이라 리스트로 담아서 다시 배열로 반환하는 작업이 까다로웠음
