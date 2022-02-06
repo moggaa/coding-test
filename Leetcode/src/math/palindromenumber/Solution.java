@@ -1,4 +1,4 @@
-package math.reverseinteger.palindromenumber;
+package math.palindromenumber;
 import java.util.ArrayList;
 
 
