@@ -4,7 +4,7 @@ import java.util.Stack;
 
 class Solution {
     /*
-        간단한 스택 문제.
+        간단한 스택 문제. (150번)
         else문을 이용하지 않고 최대한 메서드를 활용해서 코딩해봤다.
      */
 
